@@ -1,0 +1,4 @@
+15 15 15 # number of unit cells along x,y,z directions
+1.0   # Temperature
+0.005  # MD step
+100  # maxium number of steps
